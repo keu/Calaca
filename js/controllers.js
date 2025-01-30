@@ -13,6 +13,8 @@
  * On change in search box, search() will be called, and results are bind to scope as results[]
  *
 */
+
+test
 Calaca.controller('calacaCtrl', ['calacaService', '$scope', '$location', function(results, $scope, $location){
 
         //Init empty array
